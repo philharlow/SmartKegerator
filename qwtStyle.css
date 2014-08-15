@@ -1,0 +1,15 @@
+QwtPlot
+{
+    border: 0px;
+}
+
+QwtPlotCanvas
+{
+    border: 0px;
+    background-color: rgb(7,40,50);
+}
+
+QwtLegendLabel
+{
+    color: white;
+}

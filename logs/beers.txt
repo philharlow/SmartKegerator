@@ -1,0 +1,30 @@
+{
+    ABV:5.20000
+    Company:Mac & Jacks
+    IBU:52
+    Id:0
+    Location:Redmond, WA
+    LogoPath:/home/pi/qt/SmartKegerator/images/v2/logos/macandjacks.png
+    Name:African Amber
+    Type:African-Style Amber
+}
+{
+    ABV:9.80000
+    Company:Triple Horn
+    IBU:60
+    Id:1
+    Location:Woodinville, WA
+    LogoPath:/home/pi/qt/SmartKegerator/images/v2/logos/triplehorn.png
+    Name:Intervention
+    Type:Imperial IPA
+}
+{
+    ABV:6.40000
+    Company:Dirty Bucket
+    IBU:72
+    Id:2
+    Location:Woodinville, WA
+    LogoPath:/home/pi/qt/SmartKegerator/images/v2/logos/dirtybucket.png
+    Name:Filthy Hoppin' IPA
+    Type:IPA
+}

@@ -1,0 +1,78 @@
+{
+    Id:-1
+    ImagePaths:/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic0.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic1.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic2.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic3.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic4.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic5.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic6.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic7.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic8.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic9.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic10.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic11.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic12.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic13.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic14.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic15.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic16.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic17.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic18.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic19.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic20.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic21.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic22.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic23.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic24.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic25.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic26.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic27.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic28.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic29.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic30.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic31.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic32.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic33.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic34.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic35.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic36.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic37.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic38.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user-1/pic39.jpg
+    Name:Unknown
+    NextImageId:0
+}
+{
+    Id:0
+    ImagePaths:/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic0.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic1.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic3.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic4.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic5.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic6.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic7.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic8.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic9.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic10.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic11.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic12.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic13.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic14.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic15.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic16.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic17.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic18.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic19.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic20.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic21.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic22.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic23.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic24.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic25.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic26.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic27.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic28.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic29.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic30.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic31.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic32.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic33.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic34.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic35.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic36.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic37.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic38.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic39.jpg,/home/pi/qt/SmartKegerator/logs/userPhotos/user0/pic40.jpg
+    Name:Phil
+    NextImageId:41
+}
+{
+    Id:1
+    ImagePaths:
+    Name:Bellina
+    NextImageId:0
+}
+{
+    Id:2
+    ImagePaths:
+    Name:Mike
+    NextImageId:0
+}
+{
+    Id:3
+    ImagePaths:
+    Name:Derek
+    NextImageId:0
+}
+{
+    Id:4
+    ImagePaths:
+    Name:Geoff
+    NextImageId:0
+}
+{
+    Id:5
+    ImagePaths:
+    Name:Jay
+    NextImageId:0
+}
+{
+    Id:6
+    ImagePaths:
+    Name:Jonathan
+    NextImageId:0
+}
+{
+    Id:7
+    ImagePaths:
+    Name:Jake
+    NextImageId:0
+}
+{
+    Id:8
+    ImagePaths:
+    Name:Kenny
+    NextImageId:0
+}
+{
+    Id:9
+    ImagePaths:
+    Name:Kenneth
+    NextImageId:0
+}
+{
+    Id:10
+    ImagePaths:
+    Name:Gabe
+    NextImageId:0
+}
+{
+    Id:11
+    ImagePaths:
+    Name:Kody
+    NextImageId:0
+}

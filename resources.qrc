@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/PouringBackground.png</file>
+        <file>images/CloseButton.png</file>
+        <file>images/PlainButton.png</file>
+        <file>images/BlankBackground.png</file>
+        <file>images/ListItemButton.png</file>
+        <file>images/ListItemButtonSelected.png</file>
+        <file>images/MainWindowButton.png</file>
+        <file>images/v2/Background1.png</file>
+        <file>images/v2/HistoryButton.png</file>
+        <file>images/v2/UsersButton.png</file>
+        <file>images/v2/MainWindowOverlay.png</file>
+        <file>images/v2/SettingsButtonSmall.png</file>
+        <file>images/Logo.png</file>
+    </qresource>
+</RCC>

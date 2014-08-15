@@ -1,0 +1,26 @@
+QPushButton:checked
+{
+    border-image: url(:/images/ListItemButtonSelected.png) 8;
+    border: 8;
+}
+QPushButton
+{
+    border-image: url(:/images/ListItemButton.png) 8;
+    border: 8;
+}
+
+QScrollBar:vertical
+{
+    width:50px;
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(80, 80, 80, 255), stop:1 rgba(105, 105, 105, 255));
+}
+
+QScrollArea QWidget
+{
+    background-color: rgb(110, 110, 110);
+}
+
+QButton QWidget
+{
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(91, 91, 91, 255), stop:1 rgba(155, 155, 155, 255));
+}
